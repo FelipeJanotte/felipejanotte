@@ -19,7 +19,7 @@
 - 📫 How to reach me
 - - Email: **f.a.janotte@gmail.com**
 - - Linkedin: **[Felipe Augusto Janotte](https://www.linkedin.com/in/felipe-augusto-janotte-662626195/)**
-- :dizzy: Fun fact: I love study science and programing
+- :dizzy: Nice fact: I love study science and programing
 
 ---
 
