@@ -14,7 +14,7 @@
 ---
 
 - :globe_with_meridians: I’m currently working on **[Hobby Informática](https://www.hobby.inf.br/)**
-- 🌱 I’m currently learning **Front end web development**
+- 🌱 I’m currently learning **VueJS**
 - 📫 How to reach me
 - - Email: **f.a.janotte@gmail.com**
 - - Linkedin: **[Felipe Augusto Janotte](https://www.linkedin.com/in/felipe-augusto-janotte-662626195/)**
