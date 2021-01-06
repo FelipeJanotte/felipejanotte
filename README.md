@@ -28,7 +28,7 @@
 
 ---
 
-<p>
+<p align="center">
 	Icons were picked up on: 
 	<a href="https://devicon.dev/">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" height="20">Devicon
