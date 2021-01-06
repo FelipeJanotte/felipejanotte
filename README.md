@@ -30,8 +30,8 @@
 
 <p>
 	Icons were picked up on: 
-	<a>
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" height="20">Devicon(https://devicon.dev/)
+	<a href="https://devicon.dev/">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" height="20">Devicon
 	</a>
 </p>
 
