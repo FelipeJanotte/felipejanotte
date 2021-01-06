@@ -28,7 +28,7 @@
 
 ---
 
-<p>Icons were picked up on [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" height="20">Devicon](https://devicon.dev/)</p>
+Icons were picked up on [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" height="20">Devicon](https://devicon.dev/)
 
 <!--
 **FelipeJanotte/felipejanotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
