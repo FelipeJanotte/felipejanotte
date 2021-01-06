@@ -26,6 +26,10 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FelipeJanotte&show_icons=true" alt="FelipeJanotte"/></p>
 
+---
+
+<p>Icons were picked up on [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" height="20">Devicon](https://devicon.dev/)</p>
+
 <!--
 **FelipeJanotte/felipejanotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
