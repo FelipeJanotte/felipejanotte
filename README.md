@@ -16,7 +16,7 @@
 ---
 
 - :globe_with_meridians: I’m currently working on **[Hobby Informática](https://www.hobby.inf.br/)**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="20"> I’m currently learning **VueJS**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="20"> I’m learning **VueJS**
 - 📫 How to reach me
 - - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="20"> Email: **f.a.janotte@gmail.com**
 - - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="20"> Linkedin: **[Felipe Augusto Janotte](https://www.linkedin.com/in/felipe-augusto-janotte-662626195/)**
