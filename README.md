@@ -1,17 +1,16 @@
 <div align="center">
     <img src="./image.svg"/>
-
-    <h1>
+<h1>
         Hi there 😉,  I'm Felipe Janotte<br>
-    </h1>
-    <p>
+</h1>
+<p>
         and I'm studying to be a <strong>Front end Devoloper</strong><br/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  width="20" height="20"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="20" height="20"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" height="20"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="20" height="20">
-    </p>
+</p>
 </div>
 
 ---
