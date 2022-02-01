@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://imgur.com/gZnoqT2">
+    <img src="https://i.imgur.com/gZnoqT2.png">
     <h1>
         Hi there 😉,  I'm Felipe Janotte<br>
     </h1>
