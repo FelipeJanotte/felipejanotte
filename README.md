@@ -39,7 +39,7 @@
 </div>
 </div>
 </div>
-<div style="display: flex; justify-content:space-around;">
+<div style="display: flex;">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=FelipeJanotte&show_icons=true&hide_border=true" alt="FelipeJanottes's stats"/>
