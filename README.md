@@ -1,6 +1,6 @@
 <div align="center">
 
-<div style="display:flex; justify-content:space-around;">
+<div style="">
 
 <div>
 <img src="./image.svg" style="margin: 15px 0"/>
