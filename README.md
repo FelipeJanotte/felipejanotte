@@ -2,7 +2,7 @@
 
 <div style="">
 
-<div>
+<span>
 <img src="./image.svg" style="margin: 15px 0"/>
 
 [![Gmail Badge](https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=google&logoColor=white&link=mailto:f.a.janotte@gmail.com)](mailto:f.a.janotte@gmail.com/)
@@ -11,11 +11,11 @@
 
 <!-- [![Phone Badge](https://img.shields.io/badge/-(47)97007278-0d0d0d?style=for-the-badge&link=callto:+554797007278)](callto:554797007278/) -->
 
-</div>
+</span>
 
 
 
-<div align="left" style="width:450px">
+<span align="left" style="width:450px">
 
 ```md
 # Hi there 😉
@@ -36,7 +36,7 @@
 [✔️] - JAVA *NEW*
 ```
 
-</div>
+</span>
 </div>
 </div>
 <div align="center" style="display:flex; align-items:center;">
@@ -45,8 +45,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=FelipeJanotte&show_icons=true&hide_border=true" alt="FelipeJanottes's stats"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJanotte&hide=PowerShell&hide_border=true&width=200" alt="FelipeJanotte's top languages"/>
-</a>
 
 </div>
