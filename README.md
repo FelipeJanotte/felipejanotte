@@ -46,7 +46,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJanotte&hide=PowerShell&hide_border=true&width=200" alt="FelipeJanotte's top languages" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJanotte&hide=PowerShell&hide_border=true&width=200" alt="FelipeJanotte's top languages" align=""/>
 </a>
 
 </div>
