@@ -41,7 +41,7 @@
 </div>
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" height="50">
 <img src="https://github-readme-stats.vercel.app/api?username=FelipeJanotte&show_icons=true&hide_border=true" alt="FelipeJanottes's stats"/>
 </a>
 
