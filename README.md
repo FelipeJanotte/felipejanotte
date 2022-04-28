@@ -13,7 +13,9 @@
 
 </div>
 
-<div align="left" width="20">
+
+
+<div align="left" width="20px">
 
 ```md
 # Hi there 😉
@@ -24,19 +26,19 @@
 
 ## My Favorites Technologies is:
 
-[X] - HTML5
-[X] - CSS3
-[X] - JAVASCRIPT
-[X] - TYPESCRIPT
-[X] - REACT/NEXT
-[X] - VUE/NUXT
-[X] - GIT
-[X] - JAVA *NEW*
+[✔️] - HTML5
+[✔️] - CSS3
+[✔️] - JAVASCRIPT
+[✔️] - TYPESCRIPT
+[✔️] - REACT/NEXT
+[✔️] - VUE/NUXT
+[✔️] - GIT
+[✔️] - JAVA *NEW*
 ```
 
 </div>
 </div>
-
+</div>
 <div style="display: flex; justify-content:space-around;">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
