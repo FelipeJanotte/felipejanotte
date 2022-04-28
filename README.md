@@ -2,9 +2,7 @@
 <img src="./image.svg">
 
 <h1>
-Hi there 😉,  <strong>I'm Felipe Janotte</strong>
-
-<div style="margin-top:15px">
+<div>
 
 [![Gmail Badge](https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=google&logoColor=white&link=mailto:f.a.janotte@gmail.com)](mailto:f.a.janotte@gmail.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/FelipeJanotte)](https://www.linkedin.com/in/felipe-augusto-janotte-662626195/)
@@ -12,6 +10,7 @@ Hi there 😉,  <strong>I'm Felipe Janotte</strong>
 
 </div>
 
+Hi there 😉,  <strong>I'm Felipe Janotte</strong>
 </h1>
 </div>
 
