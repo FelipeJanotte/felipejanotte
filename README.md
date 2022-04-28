@@ -39,9 +39,9 @@
 </div>
 </div>
 </div>
-<div align="center">
+<div align="center" style="display:flex; align-items:center;">
 
-<a href="https://github.com/anuraghazra/github-readme-stats" height="50">
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=FelipeJanotte&show_icons=true&hide_border=true" alt="FelipeJanottes's stats"/>
 </a>
 
