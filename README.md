@@ -1,111 +1,50 @@
 <div align="center">
-    <img src="./image.svg">
-    <h1>
-        Hi there 😉,  I'm Felipe Janotte<br>
-        <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
-            alt="css3"  
-            width="20" 
-            height="20"
-        />
-        <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
-            alt="html5"  
-            width="20" 
-            height="20"
-        />
-        <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-            alt="javascript" 
-            width="20" 
-            height="20"
-        />
-	    <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" 
-            alt="vuejs" 
-            width="20" 
-            height="20"
-        />
-	    <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
-            alt="git" 
-            width="20" 
-            height="20"
-        />
-    </h1>
-</div>
+
+<div style="display:flex; justify-content:space-around;">
 
 <div>
-    <ul>
-        <li>
-            <p>
-                🌐 I’m currently working on <a><strong>Hobby Informática</strong></a>
-            </p>
-        </li>
-        <li>
-            <p>
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="20"> I’m learning <strong>Java</strong>
-            </p>
-        </li>
-        <li>
-            <p>
-                📫 How to reach me
-            </p>
-            <ul>
-                <li>
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="15"> 
-                    Email: <a href="mailto:f.a.janotte@gmail.com"><strong>f.a.janotte@gmail.com</strong></a>
-                </li>
-                <li>
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="20"> 
-                    Linkedin: <a href="https://www.linkedin.com/in/felipe-augusto-janotte-662626195/"><strong>Felipe Augusto Janotte</strong></a>
-            </ul>
-        </li>
-        <li>
-            💫: Nice fact: I love study science and programing
-        </li>
-    </ul>
+<img src="./image.svg" style="margin: 15px 0"/>
+
+[![Gmail Badge](https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=google&logoColor=white&link=mailto:f.a.janotte@gmail.com)](mailto:f.a.janotte@gmail.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/FelipeJanotte)](https://www.linkedin.com/in/felipe-augusto-janotte-662626195/)
+[![Phone Badge](https://img.shields.io/badge/-Whatsapp-brightgreen?style=for-the-badge&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=554797007278&app_absent=0)](https://api.whatsapp.com/send/?phone=554797007278&app_absent=0)
+
+<!-- [![Phone Badge](https://img.shields.io/badge/-(47)97007278-0d0d0d?style=for-the-badge&link=callto:+554797007278)](callto:554797007278/) -->
+
 </div>
 
----
+<div align="left">
 
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    	<img 
-        	src="https://github-readme-stats.vercel.app/api?username=FelipeJanotte&show_icons=true&hide_border=true"
-             alt="FelipeJanottes's stats"/>
-	</a>
-</p>
+```md
+# Hi there 😉
 
-<p align="center">
-    	<a href="https://github.com/anuraghazra/github-readme-stats">
-        <img 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJanotte&hide=PowerShell&hide_border=true&width=200" 
-         alt="FelipeJanotte's top languages" 
-         align="center"
-    	/>
-    	</a>
-</p>
+## I'm Felipe Augusto Janotte
 
 ---
 
-<p align="center">
-	Icons were picked up on: 
-	<a href="https://devicon.dev/">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" height="20">Devicon
-	</a>
-</p>
+## My Favorites Technologies is:
 
+[X] - HTML5
+[X] - CSS3
+[X] - JAVASCRIPT
+[X] - TYPESCRIPT
+[X] - REACT/NEXT
+[X] - VUE/NUXT
+[X] - GIT
+[X] - JAVA *NEW*
+```
 
-<!-- **FelipeJanotte/felipejanotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: flex; justify-content:space-around;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=FelipeJanotte&show_icons=true&hide_border=true" alt="FelipeJanottes's stats"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJanotte&hide=PowerShell&hide_border=true&width=200" alt="FelipeJanotte's top languages" align="center"/>
+</a>
+
+</div>
