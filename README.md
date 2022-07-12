@@ -21,8 +21,8 @@ Hi there 😉,  <strong>I'm Felipe Janotte</strong>
 ## Living in Joinville, Santa Catarina, Brazil
 
 ## Studies
-### Currently in 1st semester of Systems Analysis and Development
-#### Studying in college  : Frontend - HTML5, CSS3, JAVASCRIPT
+### Currently studying the 2nd semester of Systems Analysis and Development
+#### Studying in college  : Backend - JAVA, DATABASE 
 #### Studying of my own   : TYPESCRIPT 
 
 ## Working on Hobby Informática as Help Desk
