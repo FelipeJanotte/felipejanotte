@@ -1,7 +1,7 @@
 <div align="center">
-<img src="./image.svg">
 
-<h1>
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm **Felipe**
+
 <div>
 
 [![Gmail Badge](https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=google&logoColor=white&link=mailto:f.a.janotte@gmail.com)](mailto:f.a.janotte@gmail.com/)
@@ -10,10 +10,7 @@
 
 </div>
 
-Hi there 😉,  <strong>I'm Felipe Janotte</strong>
-</h1>
 </div>
-
 
 ```md
 # About Me:
@@ -21,20 +18,23 @@ Hi there 😉,  <strong>I'm Felipe Janotte</strong>
 ## Living in Joinville, Santa Catarina, Brazil
 
 ## Studies
+
 ### Currently studying the 2nd semester of Systems Analysis and Development
-#### Studying in college  : Backend - JAVA, DATABASE 
-#### Studying of my own   : TYPESCRIPT 
+
+#### Studying at college : Backend - JAVA, DATABASE
+
+#### Studying of my own : TYPESCRIPT
 
 ## Working on Hobby Informática as Help Desk
 
 ## Most Used Technologies
+
 [✔️] - JAVASCRIPT
 [✔️] - HTML5 - CSS3
-[✔️] - REACT - NEXT
-[✔️] - VUE - NUXT
-[✔️] - TYPESCRIPT *NEW*
-[✔️] - JAVA *NEW*
-
+[✔️] - REACT - NEXTJS
+[✔️] - VUE 2 - NUXTJS
+[✔️] - TYPESCRIPT **NEW**
+[✔️] - JAVA **NEW**
 ```
 
 ---
@@ -46,7 +46,6 @@ src="https://github-readme-stats.vercel.app/api?username=FelipeJanotte&show_icon
 alt="FelipeJanottes's stats"/>
 </a>
 </div>
-
 
 ---
 
