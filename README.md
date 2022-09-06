@@ -32,7 +32,6 @@
 [✔️] - JAVASCRIPT
 [✔️] - HTML5 - CSS3
 [✔️] - REACT - NEXTJS
-[✔️] - VUE 2 - NUXTJS
 [✔️] - TYPESCRIPT **NEW**
 [✔️] - JAVA **NEW**
 ```
