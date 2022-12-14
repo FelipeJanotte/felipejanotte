@@ -33,7 +33,8 @@
 [✔️] - HTML5 - CSS3
 [✔️] - REACT - NEXTJS
 [✔️] - TYPESCRIPT **NEW**
-[✔️] - JAVA **NEW**
+[✔️] - VUEJS **NEW**
+[✔️] - C# **NEW**
 ```
 
 ---
