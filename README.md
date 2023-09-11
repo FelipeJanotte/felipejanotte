@@ -18,13 +18,13 @@
 
 ## Studies
 
-### Currently studying the 2nd semester of Systems Analysis and Development
+### Currently studying the 4th semester of Systems Analysis and Development
 
-#### Studying at college : Backend - JAVA, DATABASE
+#### Studying at uni : Work in a Team
 
 #### Studying of my own : TYPESCRIPT
 
-## Working on Hobby Informática as Help Desk
+## Working on CRM&BONUS as Front-end Developer
 
 ## Most Used Technologies
 
@@ -32,7 +32,7 @@
 [✔️] - HTML5 - CSS3
 [✔️] - REACT - NEXTJS
 [✔️] - TYPESCRIPT **NEW**
-[✔️] - VUEJS **NEW**
+[✔️] - VUEJS
 [✔️] - C# **NEW**
 ```
 
