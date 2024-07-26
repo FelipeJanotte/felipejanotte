@@ -18,7 +18,7 @@
 
 ## Studies
 
-### Currently studying the 4th semester of Systems Analysis and Development
+### Currently studying the 6th semester of Systems Analysis and Development
 
 #### Studying at uni : Work in a Team
 
@@ -30,10 +30,12 @@
 
 [✔️] - JAVASCRIPT
 [✔️] - HTML5 - CSS3
-[✔️] - REACT - NEXTJS
-[✔️] - TYPESCRIPT **NEW**
 [✔️] - VUEJS
-[✔️] - C# **NEW**
+
+## Base Knowlegdes Tecnlogies
+[✔️] - REACT - NEXTJS
+[✔️] - TYPESCRIPT
+[✔️] - C#
 ```
 
 ---
