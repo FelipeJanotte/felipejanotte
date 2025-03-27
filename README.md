@@ -18,11 +18,9 @@
 
 ## Studies
 
-### Currently studying the 6th semester of Systems Analysis and Development
+### Gradueted: Systems Analysis and Development
 
-#### Studying at uni : Work in a Team
-
-#### Studying of my own : TYPESCRIPT
+#### Studying of my own : MicroFrontend
 
 ## Working on CRM&BONUS as Front-end Developer
 
