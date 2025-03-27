@@ -18,9 +18,9 @@
 
 ## Studies
 
-### Gradueted: Systems Analysis and Development
+### Gradueted: Systems Analysis and Development on UNISENAI JOINVILLE
 
-#### Studying of my own : MicroFrontend
+#### Studying by my own : MicroFrontend
 
 ## Working on CRM&BONUS as Front-end Developer
 
